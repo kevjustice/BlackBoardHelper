@@ -1,7 +1,13 @@
 # BlackBoardHelper
 A "helper" for navigating Blackboard and giving 100 or 0 quickly on assignments.
 Quick Links Menu: Has links per class for Planner, Content, Announcements, Full Grade Center and Ungraded Items
-![Quick Menu Image](https://github.com/kevjustice/BlackBoardHelper/blob/main/GoToGrading.png?raw=true)
+
+In the image below you see the quick menu expanded:
+![Quick Menu Image](MenuView.png)
+
+In the image below you see me about to give the student an A.  It will fill in the grade of full points for whatever the full points are for that assignment and press enter to go to the next student.
+![GiveA](GiveA.png)
+
 
 Instructions for Installation
 1. Get "User Javascript & CSS" plugin for chrome (or a similar one for whichever browser.
