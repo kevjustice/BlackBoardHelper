@@ -10,10 +10,10 @@ In the image below you see me about to give the student an A.  It will fill in t
 
 
 Instructions for Installation
-1. Get "User Javascript & CSS" plugin for chrome (or a similar one for whichever browser.
-2. For the url in the plugin, use your school's URL
-3. Download the javascript file for implementing in the javascript section.
-4. Download the CSS file for implementing in the CSS section.
+1. Get "User Javascript & CSS" plugin for chrome (or a similar one for whichever browser).
+2. For the url in the plugin, use your school's URL.  For example, mine is Worwic.Blackboard.com
+3. Download the javascript file (BlackBoardHelper.js) for implementing in the javascript section.
+4. Download the CSS file (BlackBoardHelper.css) for implementing in the CSS section.
 
 Instructions for Setup
 You will need to change the top portion of the javascript file for your classes and content areas.
